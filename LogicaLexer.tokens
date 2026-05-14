@@ -1,0 +1,14 @@
+IMPLICA=1
+OR=2
+AND=3
+NOT=4
+LPAREN=5
+RPAREN=6
+VARIABLE=7
+WS=8
+'→'=1
+'∨'=2
+'∧'=3
+'¬'=4
+'('=5
+')'=6
